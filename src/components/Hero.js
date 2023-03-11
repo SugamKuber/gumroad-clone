@@ -16,9 +16,9 @@ function Hero() {
           </button>
         </div>
         <div className="bg-[#ffc900] p-24">
-          <img src={Gum} alt="logo" className="absolute -bottom-64" />
-          <img src={Paint} alt="logo" className="absolute right-16" />
-          <img src={Vegalia} alt="logo" />
+          <img src={Gum} alt="gum" className="absolute -bottom-64" />
+          <img src={Paint} alt="paint" className="absolute right-16" />
+          <img src={Vegalia} alt="girl" />
         </div>
       </div>
     </>
