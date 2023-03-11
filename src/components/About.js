@@ -2,7 +2,7 @@ import Cartoonguy from "../assets/cartoonguy.svg";
 function About() {
   return (
     <>
-      <div className="py-20 flex gap-y-20 flex-col items-center ">
+      <div className="py-20 flex gap-y-20 flex-col items-center font-medium">
         <div className="w-4/6 text-3xl text-center">
           You know all those great ideas you have? We want you to try them, lots
           of them, and find out what works.
