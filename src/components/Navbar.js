@@ -3,7 +3,7 @@ function Navbar() {
   return (
     <>
       <img src={Logo} alt="logo" width="100%" className="p-10" />
-      <div className="border-y-2 border-black flex justify-between pl-10 ">
+      <div className="border-y-2 bg-white border-black flex justify-between pl-10 sticky top-0 z-50">
         <div className="flex gap-x-7 py-6">
           <div className="group  transition duration-300 cursor-pointer ">
             Features
