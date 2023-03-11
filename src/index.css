@@ -11,5 +11,10 @@
 }
 
 body {
+  overflow-x: hidden;
   font-family: "Mabry Pro";
+}
+
+::selection {
+  background: #ff90e8;
 }
